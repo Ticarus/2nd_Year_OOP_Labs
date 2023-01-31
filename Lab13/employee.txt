@@ -1,0 +1,8 @@
+Ali 345
+Zeynep 52
+Ayse 456
+Belgin 789
+Murat 12
+Sinan 36
+Veli 46
+Mustafa 87
